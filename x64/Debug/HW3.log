@@ -1,0 +1,9 @@
+﻿  Airline.c
+c:\users\user\onedrive\לימודים\שנה ב\מבוא לתכנות מערכות\מטלות הגשה\מטלה 4\פתרון מטלת בית 3-20220103\airline.c(155): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Flight.c
+c:\users\user\onedrive\לימודים\שנה ב\מבוא לתכנות מערכות\מטלות הגשה\מטלה 4\פתרון מטלת בית 3-20220103\flight.c(115): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\user\onedrive\לימודים\שנה ב\מבוא לתכנות מערכות\מטלות הגשה\מטלה 4\פתרון מטלת בית 3-20220103\flight.c(116): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.c
+c:\users\user\onedrive\לימודים\שנה ב\מבוא לתכנות מערכות\מטלות הגשה\מטלה 4\פתרון מטלת בית 3-20220103\main.c(93): warning C4013: 'saveAirline' undefined; assuming extern returning int
+  Generating Code...
+  HW3.vcxproj -> C:\Users\USER\OneDrive\לימודים\שנה ב\מבוא לתכנות מערכות\מטלות הגשה\מטלה 4\פתרון מטלת בית 3-20220103\x64\Debug\HW3.exe
